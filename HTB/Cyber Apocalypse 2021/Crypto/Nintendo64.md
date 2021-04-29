@@ -1,4 +1,4 @@
-## Nintendo64
+# Nintendo64
 
 ![image](https://user-images.githubusercontent.com/61699641/116567359-764fcc00-a8ff-11eb-9a88-1560b6e62751.png)
 
@@ -19,7 +19,7 @@ Remove Spaces from file:
 
 ![image](https://user-images.githubusercontent.com/61699641/116567615-b44cf000-a8ff-11eb-8790-48fd9c112d31.png)
 
-# How could I have saved time/effort by automating this task?
+## How could I have saved time/effort by automating this task?
 
 -Python Script
 
