@@ -1,4 +1,4 @@
-#PhaseStream1
+## PhaseStream1
 
 Method: We know that the key is 5 bytes, we also know the text contains CHTB{
 Thus we can deduce the first 5 bytes xored with CHTB{ will give us the key (as CHTB{ is also 5 bytes)
